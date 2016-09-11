@@ -1,5 +1,4 @@
 //Programmer's name: Lucas Siqueira
-//Email address: lucas2.siqueira@csu.fullerton.edu
 //Course:	CPSC 223j
 //Assignment number: 3
 //Due date: Oct  20, 2014
